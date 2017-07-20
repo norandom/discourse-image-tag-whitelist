@@ -1,14 +1,8 @@
+// start point  
 export default {
   name: 'dropcap',
-
   initialize() {
-    setup(helper);
-    ]);
+    // syntax is tag.class in an array
+    helper.whiteList(['span.dropcaps', 'span.sclass']);
   }
 };
-
-
-export function setup(helper) {
-  helper.whiteList([ 'span.dropcaps',
-                     'span.sclass'
-                   ]);
