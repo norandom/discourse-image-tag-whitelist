@@ -3,4 +3,4 @@
 # version: 0.1
 # authors: scossar
 
-register_asset 'javascripts/image-tag-whitelist.js', :server_side
+register_asset 'javascripts/span-tag-whitelist.js', :server_side
