@@ -1,4 +1,4 @@
-import {whiteListTag} from 'pretty-text/sanitizer';
+import { whiteListTag } from 'pretty-text/sanitizer';
 
 (function() {
 
