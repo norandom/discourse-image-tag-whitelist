@@ -1,6 +1,4 @@
-# name: image-classes
-# about: Whitelist a few image tag classes to allow for styling with css
-# version: 0.1
-# authors: scossar
-
-register_asset 'javascripts/span-tag-whitelist.js', :server_side
+# name: span-class
+# about: Whitelist a some custom CSS classes for span for typography experiments
+# version: 0.2
+# authors: scossar, norandom
