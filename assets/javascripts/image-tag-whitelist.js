@@ -1,6 +1,3 @@
-(function() {
-
-  Discourse.Markdown.whiteListTag('span', 'class', 'dropcap'); 
-  Discourse.Markdown.whiteListTag('span', 'class', 'sclass');
-
-})();
+(function () {
+    Discourse.Markdown.whiteListTag('color', 'center', 'anchor', 'font', 'table', 'tr', 'td', 'span');
+}).call(this);
